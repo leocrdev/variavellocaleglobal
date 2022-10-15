@@ -11,8 +11,9 @@ public class localeglobal {
 	
 		/*Variável local porque pertence somente a este método*/
 		int maiorIdade = 18;
-		
-		   metodo2();
+		System.out.println("Valor da variável local = " + maiorIdade);
+		  
+		    metodo2();
 	}
 	
 	
